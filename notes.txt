@@ -1,0 +1,5 @@
+check if castle ability is removed if in check
+
+add network piece select
+
+make piece select screen work in one dim
